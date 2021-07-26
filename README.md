@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WesleyChoi
+- 👀 I’m interested in software engineering, full stack development, chess, ultimate, and gaming
+- 🌱 I’m currently learning app development and web parsing
+- 📫 How to reach me: wesleyhchoi@gmail.com
